@@ -36,6 +36,11 @@ September 29 - October 1, 2022. In-person in Alicante, Spain + remote (hybrid ev
 
 [Website](https://reactalicante.es/) - [Twitter](https://twitter.com/reactalicante) - [Facebook](https://www.facebook.com/ReactAlicante) - [Videos](https://www.youtube.com/channel/UCaSdUaITU1Cz6PvC97A7e0w)
 
+### < React Global > Online Summit 22.2 {#react-global-online-summit-22.2}
+November 8 - 9, 2022. Remote event
+
+[Website](https://events.geekle.us/react3/) - [Twitter](https://mobile.twitter.com/reactfellows) - [Facebook](https://www.facebook.com/reactfellows/) - [Instagram](https://www.instagram.com/react_fellows/) - [Videos](https://www.youtube.com/c/GeekleOfficial)
+
 ### RemixConf 2023 {#remixconf-2023}
 May, 2023. Salt Lake City, UT
 
